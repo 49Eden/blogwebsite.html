@@ -1,12 +1,26 @@
 .past {
   color: blue;
+  margin-top: 50px;
+  border: 2px solid blue;
+  padding: 4px;
+  margin-bottom: 50px;
 }
 
 .hobbies {
   font-family: cursive;
+  color: blue;
+  margin-top: 50px;
+  border: 2px solid red;
+  padding: 4px;
+  margin-bottom: 50px;
 }
 
 .random {
   color: red;
   font-style: oblique;
+  color: blue;
+  margin-top: 50px;
+  border: 2px solid pink;
+  padding: 4px;
+  margin-bottom: 50px;
 }
